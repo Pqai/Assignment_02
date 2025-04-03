@@ -1,0 +1,36 @@
+If Executed Correctly, Your ptogram will show the following output:
+
+Weekly salary of all employees in the collection:
+
+Salaried employee: Mahbub Murshed
+Social security number: 111-22-3333
+Weekly salary $800.00
+Earnings $800.00
+
+Hourly employee: Stuart Russell
+Social security number: 111-22-4444
+Hourly Salary $16.75, Hours Worked 50
+Earnings $921.25
+
+Commission Employee: Susan Harper
+Social security number: 444-44-4444
+Gross Sales $10000, Commission Rate 0.06%
+Earnings $600
+
+Base Plus Commission Employee: David Whatmore
+Social security number777-77-7777
+Gross Sales $5000, Commission Rate 0.04%, Base Salary $300
+Earnings $500
+
+Base Plus Commission Employee:
+The new base salary with a 30% increase is: $390
+The new commission rate is: 0.05%
+
+Employee Mahbub Murshed is SalariedEmployee
+Total Earnings: 800
+Employee Stuart Russell is HourlyEmployee
+Total Earnings: 921.25
+Employee Susan Harper is CommissionEmployee
+Total Earnings: 600
+Employee David Whatmore is BasePlusCommissionEmployee
+Total Earnings: 640
